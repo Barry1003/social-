@@ -1,4 +1,4 @@
-import {clientimport {client, Account, Databases, Storage, Avatar from 'appwrite', Account, Databases, Storage, Avatar} from 'appwrite'
+import {clientimport {client, Account, Databases,   Avatar} from 'appwrite'
  
 
 export const appwriteconfig = {
